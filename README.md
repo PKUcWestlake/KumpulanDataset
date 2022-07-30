@@ -8,6 +8,7 @@ Dataset ini akan kita gunakan pada praktikum Data Science. Untuk tutorial Lengka
 📢 FOLLOW SOCIAL MEDIA 📢 
 - https://blogbelajar.id/
 - https://www.instagram.com/blogbelajar.id/
+- https://twitter.com/BlogBelajar
 
 
 📢 LIKE FACEBOOK FANS PAGE 📢 
